@@ -1,0 +1,21 @@
+{
+  "name": "Abi Krishnan",
+  "titles": [
+    "M.Sc. Computer Science (Data Analytics) Student",
+    "AI & Machine Learning Enthusiast",
+    "Data Analyst",
+    "Software Developer"
+  ],
+  "heroSubtitle": "M.Sc. Computer Science (Data Analytics) · Digital University Kerala",
+  "tagline": "Learning. Building. Innovating. Growing.",
+  "bio": "Hello! I'm Abi Krishnan, an M.Sc. Computer Science (Data Analytics) student with a passion for technology, innovation, and continuous learning. I enjoy exploring new ideas, solving challenging problems, and building solutions that create meaningful real-world impact. My interests include Artificial Intelligence, Machine Learning, Data Analytics, Software Development, and emerging technologies. I am constantly expanding my knowledge by learning new tools, frameworks, and programming concepts while applying them through practical, hands-on experiences. I believe that learning never stops. Every new challenge is an opportunity to improve my technical skills, analytical thinking, and creativity. I enjoy collaborating with others, sharing knowledge, and contributing to projects that encourage innovation and personal growth. I strive to write clean, efficient, and scalable solutions while maintaining a strong focus on problem-solving and continuous improvement. Whether I'm learning a new technology, experimenting with ideas, or working on a project, my goal is always to grow as a developer and create solutions that make a positive impact. As I continue my journey, I look forward to collaborating with like-minded people, gaining industry experience, and contributing to exciting opportunities in the fields of AI, data, and software engineering. 'Learning. Building. Innovating. Growing.'",
+  "avatar": "/avatar.jpg",
+  "recruiterStatus": "Open for Remote Internships & Opportunities",
+  "resumeUrl": "/resume.html",
+  "stats": [
+    { "label": "BSc Physics CGPA", "value": "8.5 / 10" },
+    { "label": "Projects Built", "value": "6+" },
+    { "label": "SVM Model Accuracy", "value": "98.6%" },
+    { "label": "Certifications", "value": "3" }
+  ]
+}

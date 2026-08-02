@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "title": "Email Spam Classification Using NLP & Machine Learning",
+    "category": "Completed ML & NLP",
+    "description": "Designed and deployed an end-to-end NLP pipeline with header stripping, lemmatization, stopword removal, URL tokenization, and TF-IDF vectorization (10,000 features).",
+    "features": [
+      "98.6% accuracy & 97.9% F1-score on 840 held-out test emails",
+      "TF-IDF vectorization (10,000 features, unigrams + bigrams)",
+      "SpamAssassin Corpus dataset (4,198 emails)",
+      "Deployed interactive Streamlit web application"
+    ],
+    "tech": ["Python", "Scikit-Learn", "NLTK", "TF-IDF", "LinearSVC", "Streamlit"],
+    "github": "https://github.com/abikrishnanmsds25-web/Email-Classification-Using-NLP-and-Machine-Learning"
+  },
+  {
+    "id": 2,
+    "title": "Water Quality Classification for Safe Drinking Prediction",
+    "category": "Completed ML Project",
+    "description": "Machine learning classification engine predicting water potability from physicochemical attributes to ensure safe drinking water.",
+    "features": [
+      "Physicochemical water quality parameter classification",
+      "Model evaluation & metric optimization",
+      "Clean feature extraction pipeline"
+    ],
+    "tech": ["Python", "Scikit-Learn", "Pandas", "Matplotlib", "Seaborn"],
+    "github": "https://github.com/abikrishnanmsds25-web/WATER-QUALITY-CLASSIFICATION-FOR-SAFE-DRINKING-PREDICTION"
+  },
+  {
+    "id": 3,
+    "title": "Crop Recommendation System Using Soil & Climate Data",
+    "category": "Completed ML Project",
+    "description": "Smart agricultural machine learning model recommending optimal crops based on soil nutrients (N, P, K), temperature, humidity, and rainfall.",
+    "features": [
+      "Soil nutrient (N, P, K) parameter modeling",
+      "Environmental climate data integration",
+      "Multi-class crop recommendation"
+    ],
+    "tech": ["Python", "Scikit-Learn", "Pandas", "NumPy"],
+    "github": "https://github.com/abikrishnanmsds25-web/CROP-RECOMMENDATION-SYSTEM-USING-SOIL-AND-CLIMATE-DATA"
+  },
+  {
+    "id": 4,
+    "title": "Job-Segmentation using Agentic AI",
+    "category": "Agentic AI Project",
+    "description": "Multi-agent autonomous AI system for intelligent job role segmentation, candidate skill-matching, and automated recruitment workflows.",
+    "features": [
+      "Multi-agent autonomous task orchestration",
+      "LangChain multi-agent workflow architecture"
+    ],
+    "tech": ["Python", "Agentic AI", "LangChain", "LLMs", "Multi-Agent Systems"],
+    "github": "https://github.com/Abikrishnanms/multi_agent_orchestrator_using_langchain"
+  },
+  {
+    "id": 5,
+    "title": "Physics Learning Application",
+    "category": "Python Application",
+    "description": "Interactive Python-based educational application for visual physics simulations and trajectory dynamics visualization.",
+    "features": [
+      "Interactive physics formula simulators",
+      "Visual trajectory & dynamics rendering"
+    ],
+    "tech": ["Python", "Matplotlib", "GUI"],
+    "github": "https://github.com/Abikrishnanms/PHYSICS_LEARNING_APP"
+  },
+  {
+    "id": 6,
+    "title": "Solar Panel Tilt Angle Prediction using Machine Learning",
+    "category": "Academic ML Project",
+    "description": "Developed a machine learning predictive model to determine the optimal tilt angle of solar panels to maximize energy collection efficiency.",
+    "features": [
+      "Solar irradiance feature engineering",
+      "Predictive optimization algorithm"
+    ],
+    "tech": ["Python", "Scikit-Learn", "Pandas", "Matplotlib"],
+    "github": "https://github.com/Abikrishnanms"
+  },
+  {
+    "id": 7,
+    "title": "Metro Passenger Prediction System",
+    "category": "Ongoing ML Project",
+    "description": "Time-series forecasting and machine learning system to predict metro station passenger flow, peak traffic hours, and crowd density.",
+    "features": [
+      "Peak hour traffic & passenger flow forecasting",
+      "Time-series modeling & anomaly detection"
+    ],
+    "tech": ["Python", "Pandas", "Scikit-Learn", "Matplotlib", "Time-Series"],
+    "github": "https://github.com/Abikrishnanms"
+  },
+  {
+    "id": 8,
+    "title": "Personal Finance Tracker — Data Analytics Dashboard",
+    "category": "Data Analytics & BI",
+    "description": "Ingested, cleaned, and transformed raw bank statement CSV data to compute income vs. expense transactions and top spending categories.",
+    "features": [
+      "Automated CSV data cleaning & transformation pipeline in Pandas",
+      "Category-wise expense breakdown & top spending detection",
+      "Power BI interactive dashboard with dynamic KPI cards"
+    ],
+    "tech": ["Python", "Pandas", "Matplotlib", "Power BI", "CSV Financial Data"],
+    "github": "https://github.com/Abikrishnanms"
+  }
+]

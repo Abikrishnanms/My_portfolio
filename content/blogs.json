@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Building Production Machine Learning Pipelines with Python & PyTorch",
+    "slug": "building-production-ml-pipelines",
+    "date": "Jan 15, 2026",
+    "readTime": "6 min",
+    "summary": "A comprehensive guide on transitioning machine learning models from Jupyter Notebook prototypes to scalable production APIs using PyTorch, FastAPI, and Docker.",
+    "tags": ["Python", "PyTorch", "FastAPI", "Machine Learning"]
+  },
+  {
+    "title": "Mastering Feature Engineering for Churn Prediction Analytics",
+    "slug": "mastering-feature-engineering-churn-analytics",
+    "date": "Dec 20, 2025",
+    "readTime": "8 min",
+    "summary": "Learn how feature transformations, SHAP interpretability values, and XGBoost tuning improve model accuracy and business customer retention strategies.",
+    "tags": ["Data Analytics", "Pandas", "XGBoost", "Python"]
+  }
+]

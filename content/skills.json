@@ -1,0 +1,50 @@
+[
+  {
+    "category": "Programming Languages",
+    "items": [
+      { "name": "Python", "level": 95, "icon": "code" },
+      { "name": "Java", "level": 85, "icon": "code" },
+      { "name": "JavaScript", "level": 88, "icon": "code" },
+      { "name": "TypeScript", "level": 82, "icon": "code" },
+      { "name": "SQL", "level": 90, "icon": "database" }
+    ]
+  },
+  {
+    "category": "Data Science & AI Libraries",
+    "items": [
+      { "name": "Pandas", "level": 92, "icon": "bar-chart-2" },
+      { "name": "NumPy", "level": 90, "icon": "cpu" },
+      { "name": "Scikit-Learn", "level": 88, "icon": "activity" },
+      { "name": "PyTorch", "level": 84, "icon": "zap" },
+      { "name": "TensorFlow", "level": 80, "icon": "box" },
+      { "name": "Matplotlib & Seaborn", "level": 90, "icon": "pie-chart" }
+    ]
+  },
+  {
+    "category": "Frameworks",
+    "items": [
+      { "name": "React", "level": 88, "icon": "layout" },
+      { "name": "NextJS", "level": 85, "icon": "globe" },
+      { "name": "FastAPI", "level": 90, "icon": "server" },
+      { "name": "Flask", "level": 85, "icon": "feather" }
+    ]
+  },
+  {
+    "category": "Tools & Databases",
+    "items": [
+      { "name": "Git & GitHub", "level": 92, "icon": "git-branch" },
+      { "name": "Docker", "level": 80, "icon": "container" },
+      { "name": "PostgreSQL", "level": 88, "icon": "database" },
+      { "name": "Power BI", "level": 85, "icon": "line-chart" },
+      { "name": "VS Code / Cursor", "level": 95, "icon": "terminal" }
+    ]
+  },
+  {
+    "category": "Cloud Platforms",
+    "items": [
+      { "name": "AWS", "level": 78, "icon": "cloud" },
+      { "name": "Azure", "level": 75, "icon": "cloud-lightning" },
+      { "name": "Google Cloud", "level": 80, "icon": "cloud-rain" }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "degree": "Master of Science — Computer Science (Data Analytics)",
+    "institution": "Digital University Kerala, Thiruvananthapuram",
+    "period": "2025 – 2027",
+    "score": "Currently Pursuing",
+    "courses": ["Data Analytics", "Machine Learning Pipelines", "Big Data", "NLP", "Statistical Methods", "Data Storytelling"]
+  },
+  {
+    "degree": "Bachelor of Science — Physics with Machine Learning",
+    "institution": "Mar Ivanios College, Thiruvananthapuram",
+    "period": "2022 – 2025",
+    "score": "CGPA: 8.5 / 10.0",
+    "courses": ["Physics Fundamentals", "Machine Learning", "Mathematical Physics", "Python Programming", "Statistical Analysis"]
+  }
+]
