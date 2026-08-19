@@ -394,6 +394,9 @@ export default function PortfolioPage() {
                 <div>
                   <h4 className={`text-base font-bold group-hover:text-[#2563EB] transition duration-200 ${isDark ? 'text-white' : 'text-[#0A0A0A]'}`}>{cert.title}</h4>
                   <p className={`text-xs mt-1 ${isDark ? 'text-[#A1A1AA]' : 'text-[#52525B]'}`}>{cert.issuer} · {cert.date}</p>
+                  {cert.credentialId && (
+                    <p className={`text-[11px] font-mono mt-1 ${isDark ? 'text-[#A1A1AA]/80' : 'text-[#52525B]/80'}`}>ID: {cert.credentialId}</p>
+                  )}
                 </div>
                 <span className={`text-xs font-medium transition ${isDark ? 'text-[#A1A1AA] group-hover:text-white' : 'text-[#52525B] group-hover:text-[#0A0A0A]'}`}>Verify Credential ↗</span>
               </a>
