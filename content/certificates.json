@@ -7,16 +7,25 @@
     "credentialId": "6a7a8ba8b622d831d520afb4"
   },
   {
+    "title": "Google Cloud Certification",
+    "issuer": "Google Cloud (Credly)",
+    "date": "2024",
+    "link": "https://www.credly.com/badges/7ab8888f-d3a3-4651-9e91-671df5a40e8b/linked_in_profile",
+    "credentialId": "7ab8888f-d3a3-4651-9e91-671df5a40e8b"
+  },
+  {
     "title": "Power BI Professional Certificate",
     "issuer": "Coursera",
     "date": "2024",
-    "link": "https://coursera.org"
+    "link": "https://www.coursera.org/account/accomplishments/verify/X2AHN3J5APGM",
+    "credentialId": "X2AHN3J5APGM"
   },
   {
     "title": "Git & GitHub Version Control Certification",
     "issuer": "Coursera",
     "date": "2024",
-    "link": "https://coursera.org"
+    "link": "https://www.coursera.org/account/accomplishments/verify/60ACGSQSH9OW",
+    "credentialId": "60ACGSQSH9OW"
   },
   {
     "title": "Data Analytics Specialization",
